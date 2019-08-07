@@ -1,0 +1,3 @@
+git is a vcs.
+
+git is free, but git is great and powerful;

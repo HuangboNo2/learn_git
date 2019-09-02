@@ -13,7 +13,8 @@ int main()
 	cout << "user1 say thanks user2 for adding MACRO PRINT." << endl;
 
 
-	cout << "user1 say to user2:lets do something different.such as math ex: << endl;
+	cout << "user1 say to user2:lets do something different.such as math ex." << endl;
+	cout << "user2 say to user1:ok,you fisrt." << endl;
 	PRINT
 	return 0;
 }

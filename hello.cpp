@@ -17,6 +17,7 @@ int main()
 	cout << "user2 say to user1:ok,you fisrt." << endl;
 	cout << "user1 say to user2:ok,1+1=?" << endl;
 	cout << "user2 say to user1:1+1=2,it is so easy."<< endl;
+	cout << "user2 say to user1:you can make it more hard."<< endl;
 	PRINT
 	return 0;
 }

@@ -11,6 +11,9 @@ int main()
 	cout << "user1 say nice to meet user2" << endl;
 	cout << "user2 say nice to meet user1 too." << endl;
 	cout << "user1 say thanks user2 for adding MACRO PRINT." << endl;
+
+
+	cout << "user1 say to user2:lets do something different.such as math ex: << endl;
 	PRINT
 	return 0;
 }
